@@ -18,7 +18,7 @@ Annika Kreikenbohm, hello@annok.de
 
 # Systemvorraussetzungen
 - Installiere die Unity Software in der Version 2022.3 or neuer
-- Nutzer eine der folgenden VR Brillen: Valve Index, HP Reverb G2, HTC Vive
+- Nutzer eine der folgenden VR Brillen: Valve Index, HP Reverb G2
 - Windows 10 oder neuer
 
 
