@@ -13,6 +13,11 @@ Die Anwendung wurde im Rahmen des Hochschulwettbewerbs 2023 "Unser Universum" an
 - Prof. Jörn Wilms (Professor für Astrophysik der FAU und an der Dr. Karl-Remeis Sternwarte)
 - Blandina Mangelkramer & Laura Kneppe (Stabsstelle Presse und Kommunikation der FAU)
 
+## License
+CC BY-NC-ND 4.0 - Attribution-NonCommercial-NoDerivatives 4.0 International
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+
 ## Kontakt:
 Annika Kreikenbohm, hello@annok.de
 
