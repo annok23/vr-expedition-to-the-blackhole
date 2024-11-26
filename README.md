@@ -1,73 +1,69 @@
 <img width="684" alt="Screenshot 2024-10-15 at 12 04 31" src="https://github.com/user-attachments/assets/70eaee29-1098-4488-911b-18ac9a2d89a9">
 <img width="663" alt="Screenshot 2024-10-15 at 12 04 24" src="https://github.com/user-attachments/assets/451eaaf8-9661-4819-8699-ddb9a8c556db">
 
-# VR Expedition ins Schwarze Loch
-Unity Build der VR Anwendung "Expedition ins Schwarze Loch". Momentan ist die Anwendung nur in deutscher Sprache verfügbar. 
-Die Anwendung wurde im Rahmen des Hochschulwettbewerbs 2023 "Unser Universum" an der FAU Erlangen-Nürnberg und der Dr. Karl Remeis Sternwarte entwickelt. 
+# VR Expedition to the black hole
+Unity Build of the VR application “Expedition into the Black Hole”. The application is currently only available in German. 
+The application was developed as part of the university competition 2023 “Our Universe” at FAU Erlangen-Nuremberg and the Dr. Karl Remeis Observatory. 
 
 ## Das Team
 
-- Dr. Annika Kreikenbohm (Astrophysikerin & freiberufliche Informationsdesignerin) 
-- Dr. Thomas Dauser (Post-Doc, Dr. Karl-Remeis Sternwarte in Bamberg
-- Prof. Tobias Günther (Professor für Visual Computing an der FAU Erlangen-Nürnberg) 
-- Prof. Jörn Wilms (Professor für Astrophysik der FAU und an der Dr. Karl-Remeis Sternwarte)
-- Blandina Mangelkramer & Laura Kneppe (Stabsstelle Presse und Kommunikation der FAU)
-
-## License
-CC BY-NC-ND 4.0 - Attribution-NonCommercial-NoDerivatives 4.0 International
-https://creativecommons.org/licenses/by-nc-nd/4.0/
-
+- Dr. Annika Kreikenbohm (astrophysicist & freelance information designer) 
+- Dr. Thomas Dauser (Post-Doc, Dr. Karl-Remeis Observatory in Bamberg)
+- Prof. Tobias Günther (Professor for Visual Computing at the FAU Erlangen-Nuremberg) 
+- Prof. Jörn Wilms (Professor of Astrophysics at FAU and at the Dr. Karl-Remeis Observatory)
+- Blandina Mangelkramer & Laura Kneppe (FAU Press and Communications Office)
 
 ## Kontakt:
 Annika Kreikenbohm, hello@annok.de
 
-# Systemvorraussetzungen
-- Installiere die Unity Software in der Version 2022.3 or neuer
-- Nutzer eine der folgenden VR Brillen: Valve Index, HP Reverb G2
-- Windows 10 oder neuer
+# License
+CC BY-NC-ND 4.0 - Attribution-NonCommercial-NoDerivatives 4.0 International
+https://creativecommons.org/licenses/by-nc-nd/4.0/
 
+# System requirements
+- Install the Unity software in version 2022.3 or newer
+- User of one of the following VR glasses: Valve Index, HP Reverb G2
+- Windows 10 or newer
 
 # Set-up 
-- Lade den Ordner aus diesem Repository herunter und entpacke es an einem Ort deiner Wahl.
-- Vor dem Start, stelle sicher, dass die VR Brille angeschlossen und einsatzbereit ist.
-- Im entpackten Ordner: Starte die Windows Anwendung "VR Expedition in Schwarze Loch.exe"
+- Download the folder from this repository and unzip it to a location of your choice
+- Before starting, make sure that the VR glasses are connected and ready to use.
+- In the unzipped folder: Start the Windows application “VR Expedition in Schwarze Loch.exe”
 
-# Die Expedition
-Besucher*innen, die die Anwendung benutzen, sollten von Forschenden oder dergleichen begleitet werden. Die Expedition startet mit einer kurzen Erläuterung der Steuerung. Erfahrungsgemäß sollten Nutzer*innen sich damit erstmal vertraut machen. In der Anwendung befindet man sich im Universum, das Hintergrundbild ist ein GAIA All Sky Bild und zeigt das Universum vom Standpunkt der Erde aus. 
+# The expedition
+Visitors using the application should be accompanied by researchers or similar. The expedition starts with a brief explanation of the controls. Experience has shown that users should familiarize themselves with it first. In the application, you are in the universe, the background image is a GAIA All Sky image and shows the universe from the point of view of the Earth. 
 
-Man befindet sich in der Nähe eines nakten Schwarzen Lochs. Das ist unter Umständen nicht sofort zu erkennen. Sobald die Anfangserklärung beendet ist, kann man im Menu am rechten Handgelenk einen Kompass aktivieren, der in die Richtung des Schwarzen Lochs zeigt. Man kann die Umgebung und die Eigenschaften des Schwarzen Lochs frei erkunden. 
+You are in the vicinity of a naked black hole. This may not be immediately recognizable. As soon as the initial explanation is finished, you can activate a compass in the menu on your right wrist that points in the direction of the black hole. You can freely explore the surroundings and the properties of the black hole. 
 
+# Controls
+There are various buttons / functions on the controllers:
 
+## Left controller:
+- Gravity sensor (button): generates vibrations in the left controller. The strength of the vibrations is a measure of the gravity at the player's position. If the person is too far away from the black hole, no vibration can be felt.
 
-  # Steuerung und Funktionen
-  An den Controllern gibt es verschiedene Buttons / Funktionen:
+- Reset position (button): If you get too close to the black hole, there is an “error”, you fall into a gap and only see a hint. You can return to the game with the Reset Position button
 
-## Linker Controller:
-- Gravitationssensor (Button): erzeugt Vibrationen im linken Controller. Die Stärke der Vibrations ist ein Maß für die Gravitation am Standpunkt der spielenden Person. Wenn die Person zu weit vom Schwarzen Loch entfernt ist, ist keine Vibration spürbar.
+- Audio Play/Pause (handle): activates or pauses an audio track that provides explanations about the environment, the black hole and the accretion. 
 
-- Reset Position (Button): Kommt man dem Schwarzen Loch zu nah, gibt es einen “Fehler”, man fällt in einen Zwischenraum und sieht nur noch einen Hinweis. Mit dem Reset Position Button kommt man wieder in das Spiel zurück
+- Laser pointer (trigger/index finger): the laser pointer appears when you point the left controller at the menu on the right controller. The UI elements can be activated using the trigger buttons.
 
-- Audio Play/Pause (Griff): aktiviert oder pausiert eine Audiospur, die Erklärungen zu der Umgebung, dem Schwarzen Loch und der Akkretion liefert. 
+## Right controller:
+- Menu: If you turn the right wrist / controller towards you (as if you were looking at your watch), a menu appears. The compass and info screen can be activated here. There is also a slider that controls the acceleration. You can use it to influence how much gas is accreted by the black hole (how pronounced the accretion disk is). 
 
-- Laserpointer (Trigger/Zeigefinger): der Laserpointer erscheint, wenn man mit dem Linken Controller auf das Menu am Rechten Controller zeigt. Über die Triggertaster können die UI Elemente aktiviert werden.
+The info screen provides additional information about the black hole and spiral galaxies. 
 
-## Rechter Controller:
-- Menu: Dreht man das rechte Handgelenkt / Controller zu sich (so, als würde man auf die Uhr schauen) erscheint ein Menu. Hier können der Kompass und der Infosscreen aktiviert werden. Außerdem gibt es einen Schieberegler, der die Akkretion steuert. Man kann damit beeinflussen, wieviel Gas vom Schwarzen Loch akkretiert wird (wie ausgeprägt die Akkretionsscheibe ist). 
+- Activate/deactivate light beams 
+(trigger button/index finger):
+To visualize the curvature of space, you can send out guide lines from the controller to show which path the light would take. The closer the light rays get to the black hole, the more they are deflected.
 
-Der Infoscreen zusätzliche Infos zum Schwarzen Loch und Spiralgalaxien. 
+- Freezing light rays (handle): Unlike in reality, we can freeze light rays in the VR application. We can then see “from the side” how strongly the rays are deflected by the black hole. 
 
-- Lichtstrahlen aktivieren/deaktivieren 
-(Triggertaste/Zeigefinger):
-Um die Raumkrümmung sichtbar zu machen, kann man vom Controller Hilfslinien aussenden, die darstellen, welchen Weg das Licht nehmen würde. Je näher die Lichtstrahlen an das Schwarze Loch kommen, desto stärker werden sie abgelenkt.
+- Change the number of light rays (+/- buttons): the buttons can be used to vary the number of light rays. 
 
-- Lichtstrahlen einfrieren (Griff): Anders als in Realität, können wir Lichtstrahlen in der VR Anwendung einfrieren. Wir könne uns dann “von der Seite” anschauen, wie stark die Strahlen vom Schwarzen Loch angelenkt werden. 
+## Keyboard shortcuts:
 
-- Anzahl der Lichtstahlenändern (+/- Buttons): der Über die Buttons kann man die Anzahl der Lichtstrahlen variieren. 
-
-## Tastaturbefehle:
-
-- Leertaste / Space: Spiel neu starten
-- ECS: Spiel beenden
+- Spacebar / Space: Restart game
+- ECS: End game
 
 <img width="814" alt="Screenshot 2024-10-15 at 12 02 27" src="https://github.com/user-attachments/assets/59c44852-01bf-458f-b345-c04e2aa4acfa">
 
