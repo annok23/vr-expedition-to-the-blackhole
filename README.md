@@ -17,8 +17,8 @@ The application was developed as part of the university competition 2023 “Our 
 Annika Kreikenbohm, hello@annok.de
 
 # License
-CC BY-NC-ND 4.0 - Attribution-NonCommercial-NoDerivatives 4.0 International
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+CC BY-SA 4.0 - Attribution-ShareAlike 4.0 International
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
 # System requirements
 - Install the Unity software in version 2022.3 or newer
